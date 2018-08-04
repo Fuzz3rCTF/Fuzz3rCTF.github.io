@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Fuzz3rCTF/Fuzz3rCTF.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Greek ECSC QUALS-Pwn Challenge
+### Greek ECSC QUALS 2017-Pwn Challenge
 ```python
 from pwn import *
 from struct import pack, unpack
