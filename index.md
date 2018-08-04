@@ -81,14 +81,13 @@ def pwn():
 
 pwn()
 ```
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### WHOAMI
+1. I am a Greek high school student. 
+2. I love Binary Reverse Engineering and Exploitation!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fuzz3rCTF/Fuzz3rCTF.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
