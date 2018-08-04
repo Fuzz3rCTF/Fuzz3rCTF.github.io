@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Fuzzer's Palace
 
 You can use the [editor on GitHub](https://github.com/Fuzz3rCTF/Fuzz3rCTF.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
