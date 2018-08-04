@@ -79,7 +79,8 @@ def pwn():
 pwn()
 ```
 
-For more ***pwn*** writeups see [here](https://www.github.com/fuzz3rctf/pwnz).
+For more ***pwn*** writeups see [here](https://www.github.com/fuzz3rctf/pwnz)
+
 For ***reversing*** writeups see [here](https://www.github.com/fuzz3rctf/reversing)
 
 ### ~$ WHOAMI
