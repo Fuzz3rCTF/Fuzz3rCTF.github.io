@@ -1,9 +1,5 @@
 ## Welcome to Fuzzer's Palace
 
-You can use the [editor on GitHub](https://github.com/Fuzz3rCTF/Fuzz3rCTF.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Greek ECSC QUALS 2017-Pwn Challenge
 ```python
 from pwn import *
@@ -82,7 +78,8 @@ def pwn():
 pwn()
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more ***pwn*** writeups see [here](https://www.github.com/fuzz3rctf/pwnz).
+For ***reversing*** writeups see [here](https://www.github.com/fuzz3rctf/reversing)
 
 ### ~$ WHOAMI
 1. I am a Greek high school student. 
