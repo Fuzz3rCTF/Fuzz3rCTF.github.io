@@ -84,7 +84,7 @@ pwn()
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### WHOAMI
+### ~$ WHOAMI
 1. I am a Greek high school student. 
 2. I love Binary Reverse Engineering and Exploitation!
 
